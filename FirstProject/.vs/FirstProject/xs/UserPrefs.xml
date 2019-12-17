@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{870A5C0D-D9BE-23F7-33B1-9047EE99CBA5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Portal.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MainMenu.cs" Line="13" Column="1" />
+      <File FileName="Assets/Scripts/CameraSystem.cs" Line="4" Column="1" />
+      <File FileName="Assets/Scripts/playerMOve.cs" Line="34" Column="53" />
+      <File FileName="Assets/Scripts/EnemyMove.cs" Line="28" Column="10" />
+      <File FileName="Assets/Scripts/EnemyHealth.cs" Line="11" Column="43" />
+      <File FileName="Assets/Scripts/Score.cs" Line="50" Column="30" />
+      <File FileName="Assets/Scripts/ladder.cs" Line="11" Column="17" />
+      <File FileName="Assets/Scripts/Portal.cs" Line="24" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FirstProject" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Portal.cs" selected="True" />
+              </Node>
+              <Node name="TextMesh Pro" expanded="True">
+                <Node name="Examples &amp; Extras" expanded="True">
+                  <Node name="Fonts" expanded="True" />
+                  <Node name="Scripts" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4165285f-4c70-4d12-8162-c04ad0c9f767" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
